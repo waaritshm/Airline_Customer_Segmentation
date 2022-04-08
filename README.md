@@ -1,3 +1,9 @@
+### source: 
+(https://www.programmersought.com/article/48113472881/)
+
+(https://www.kaggle.com/code/gilangpanduparase/air-line-customer-segmentation/notebook)
+
+
 # Airline_Customer_Segmentation
 Used airline customer data to classify customers, analyze characteristics of different customer categories, compare customer values ​​of different customer categories, provide personalized services to customer categories of different values, and formulate Corresponding marketing strategy. Data description: This data contains the basic information, flight information and point information of 62,988 customers. It contains the membership card number, membership time, gender, age, membership card level, and the mileage in the observation window.
 
